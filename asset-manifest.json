@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ReactMemoryGame/static/css/main.9c7db44b.chunk.css",
+    "main.js": "/ReactMemoryGame/static/js/main.677823a2.chunk.js",
+    "main.js.map": "/ReactMemoryGame/static/js/main.677823a2.chunk.js.map",
+    "runtime-main.js": "/ReactMemoryGame/static/js/runtime-main.9d9c24d2.js",
+    "runtime-main.js.map": "/ReactMemoryGame/static/js/runtime-main.9d9c24d2.js.map",
+    "static/css/2.73223916.chunk.css": "/ReactMemoryGame/static/css/2.73223916.chunk.css",
+    "static/js/2.0b105622.chunk.js": "/ReactMemoryGame/static/js/2.0b105622.chunk.js",
+    "static/js/2.0b105622.chunk.js.map": "/ReactMemoryGame/static/js/2.0b105622.chunk.js.map",
+    "index.html": "/ReactMemoryGame/index.html",
+    "static/css/2.73223916.chunk.css.map": "/ReactMemoryGame/static/css/2.73223916.chunk.css.map",
+    "static/css/main.9c7db44b.chunk.css.map": "/ReactMemoryGame/static/css/main.9c7db44b.chunk.css.map",
+    "static/js/2.0b105622.chunk.js.LICENSE.txt": "/ReactMemoryGame/static/js/2.0b105622.chunk.js.LICENSE.txt",
+    "static/media/Fulminatrix.7b822ecd.webp": "/ReactMemoryGame/static/media/Fulminatrix.7b822ecd.webp",
+    "static/media/Lambda-class Imperial Shuttle.0a54104a.jpg": "/ReactMemoryGame/static/media/Lambda-class Imperial Shuttle.0a54104a.jpg",
+    "static/media/Lando Calrissian's Millennium Falcon.5189fb68.webp": "/ReactMemoryGame/static/media/Lando Calrissian's Millennium Falcon.5189fb68.webp",
+    "static/media/MG-100 StarFortress bomber.b18f1a54.webp": "/ReactMemoryGame/static/media/MG-100 StarFortress bomber.b18f1a54.webp",
+    "static/media/Naboo Royal Starship.6afa7058.webp": "/ReactMemoryGame/static/media/Naboo Royal Starship.6afa7058.webp",
+    "static/media/Razor Crest.103cfee7.webp": "/ReactMemoryGame/static/media/Razor Crest.103cfee7.webp",
+    "static/media/Separatist dreadnought.42662a64.webp": "/ReactMemoryGame/static/media/Separatist dreadnought.42662a64.webp",
+    "static/media/TIE fighter.d9d7922a.webp": "/ReactMemoryGame/static/media/TIE fighter.d9d7922a.webp",
+    "static/media/Tantive IV.f43aac76.webp": "/ReactMemoryGame/static/media/Tantive IV.f43aac76.webp",
+    "static/media/Vulture Droid.95d8ba68.webp": "/ReactMemoryGame/static/media/Vulture Droid.95d8ba68.webp",
+    "static/media/index.css": "/ReactMemoryGame/static/media/background.c1ffa926.jpg",
+    "static/media/semantic.min.css": "/ReactMemoryGame/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/​Naboo Royal Cruiser.ab56cd74.webp": "/ReactMemoryGame/static/media/​Naboo Royal Cruiser.ab56cd74.webp",
+    "static/media/​Radiant VII.3a7772b9.png": "/ReactMemoryGame/static/media/​Radiant VII.3a7772b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d9c24d2.js",
+    "static/css/2.73223916.chunk.css",
+    "static/js/2.0b105622.chunk.js",
+    "static/css/main.9c7db44b.chunk.css",
+    "static/js/main.677823a2.chunk.js"
+  ]
+}

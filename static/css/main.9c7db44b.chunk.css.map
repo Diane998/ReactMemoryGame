@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,qEACF","file":"main.9c7db44b.chunk.css","sourcesContent":["body {\n  background: url(./assets/images/background.jpg);\n}\n"]}
